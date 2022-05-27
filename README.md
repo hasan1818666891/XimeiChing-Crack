@@ -19,7 +19,7 @@ $ pip install requests
 
 $ rm -rf XimeiChing-Crack
 
-$ git clone 
+$ git clone https://github.com/XimeiChing778/XimeiChing-Crack
 
 $ cd XimeiChing-Crack
 
@@ -33,3 +33,9 @@ $ python run.py
 
 [![Screenshot-2022-05-28-01-13-12-44-84d3000e3f4017145260f7618db1d683.jpg](https://i.postimg.cc/8z5d6wCr/Screenshot-2022-05-28-01-13-12-44-84d3000e3f4017145260f7618db1d683.jpg)](https://postimg.cc/N53rh6mg)
 [![IMG-20220525-174516.jpg](https://i.postimg.cc/VN4cVf8h/IMG-20220525-174516.jpg)](https://postimg.cc/HJJKJCj0)
+
+-----
+
+# Don't forget to follow and give a star 🌟
+-----
+[![385568e416916e4304d35bec61bab57e.gif](https://i.postimg.cc/Z5HdVNWz/385568e416916e4304d35bec61bab57e.gif)](https://postimg.cc/4YKy3mvW)
